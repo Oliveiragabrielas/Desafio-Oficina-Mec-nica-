@@ -1,9 +1,10 @@
 # 🔧 Desafio Oficina Mecânica
 
 <p align="center">
-  <img src="./oficina.png" alt="Sistema de gerenciamento de clientes da oficina mecânica" width="100%">
+  <img src="./image.png" alt="Sistema de Oficina Mecânica" width="100%">
 </p>
 
+---
 ---
 ##  Sobre o Projeto
 
@@ -95,7 +96,7 @@ SELECT * FROM clientes;
 
 > Caso o projeto utilize uma aplicação conectada ao banco de dados, configure também as credenciais de conexão de acordo com o ambiente local.
 
-##  Aprendizados
+##  Aprendizado
 
 - Fundamentos de banco de dados relacionais.
 - Modelagem de tabelas e relacionamentos.
